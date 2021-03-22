@@ -1,0 +1,31 @@
+html * {
+    font-family: monospace;
+}
+
+h1 {
+    text-align: center;
+    font-size: xx-large;
+}
+
+p {
+    font-size: medium
+}
+
+h1 + p {
+    font-style: italic;
+}
+
+.container {
+    margin-left: 33%;
+    margin-right: 33%;
+}
+
+#input {
+    width: 77%;
+    font-size: x-large;
+}
+
+#button {
+    width: 20%;
+    font-size: medium;
+}
